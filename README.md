@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiuSeanMing
 - 👀 I’m interested in Python, AWS and machine learning.
-- 🌱 I’m currently learning Python 50 courses.
+- 🌱 I’m currently learning Python-Core-50-Courses.
 - 💞️ I’m looking to collaborate on jobhunting.
 - 📫 How to reach me liuseanming@gmail.com
 
